@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ドリームレス・ドリームス",
+  "base_artist": "dongdang",
+  "createdAt": "2025-12-11T22:38:22.593115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/01_ドリームレス・ドリームス_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/02_ドリームレス・ドリームス_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/03_ドリームレス・ドリームス_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "Harumaki, Gohan",
+      "has_synced": true,
+      "path": "select/04_ドリームレス・ドリームス_Harumaki,_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "はるまきごはん Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ドリームレス・ドリームス_はるまきごはん_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドリームレス·ドリームス",
+      "artist": "はるまきごはん feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_ドリームレス·ドリームス_はるまきごはん_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドリームレス.ドリームス",
+      "artist": "はるまきごはん feat.初音ミク",
+      "has_synced": true,
+      "path": "select/07_ドリームレス.ドリームス_はるまきごはん_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス - セルフカバー",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/08_ドリームレス・ドリームス_-_セルフカバー_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/09_ドリームレス・ドリームス_はるまきごはん.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドリームレス·ドリームス",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/10_ドリームレス·ドリームス_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドリームレス・ドリームス (Acoustic Arrange)",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/11_ドリームレス・ドリームス_(Acoustic_Arrange)_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドリームレス・ドリームス",
+      "artist": "dongdang",
+      "has_synced": false,
+      "path": "select/pl_01_ドリームレス・ドリームス_dongdang.txt"
+    }
+  ]
+}
